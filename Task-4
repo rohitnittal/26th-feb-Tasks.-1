@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Lights</title>
+    <style>
+        
+        nav{
+            border-style: solid;
+            border-radius: 5px;
+            background-color: black;
+            width: 75px;
+            margin: 50;
+        }
+       h3{
+        text-align: center;
+       }
+        #c1{
+            background-color: red;
+            color:red;
+            border-radius: 200px;
+            width: 50px;
+            height: 50px;
+            margin: 12px;
+            
+            
+        }
+        #c2{
+            background-color: rgb(255, 221, 0);
+            color: rgb(255, 221, 0);
+            border-radius: 200px;
+            width: 50px;
+            height: 50px;
+            margin: 12px;
+        }
+        #c3{
+            background-color: green;
+            color: green;
+            border-radius: 200px;
+            width: 50px;
+            height: 50px;
+            margin: 12px;
+        }
+        p{
+            border-style: solid;
+            border-radius: 5px;
+            border-top-left-radius: 0px;
+            border-top-right-radius: 0px;
+            background-color: black;
+            width: 5px;
+            height: 90px;
+            margin-left: 32px;
+            margin-top: 0px;
+
+        }
+        
+        
+    </style>
+</head>
+<body>
+    <nav>
+       
+            <h3 id="c1">car</h3>
+            <h3 id="c2">car</h3>
+            <h3 id="c3">car</h3>
+       
+    </nav>
+    <p>1</p>
+    
+</body>
+</html>     
