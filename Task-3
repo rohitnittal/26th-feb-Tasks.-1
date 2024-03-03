@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>menu</title>
+        <style>
+           h2{
+            color:black;
+            background-color: green;
+           }
+
+    div{
+        display: inline-block;
+        margin: 6px;
+        padding: 20px;
+        border: 2px solid black;
+        border-radius: 20px;
+    }
+
+
+
+
+        </style>
+    </head>
+    <body bgcolor="pink">
+       
+<div>
+            <h2>veg items</h2>
+            <ul>
+            <li>veg biryani</li>
+            <li>mushroom biryani</li>
+            <li>veg rice</li>
+        </ul>
+        </div>
+
+
+        
+        <div>
+            <h2>Non veg items</h2>
+<ul>
+            <li>chicken biryani</li>
+            <li>mutton biryani</li>
+            <li>chicken rice</li>
+        </ul>
+        </div>
+
+
+
+       
+            <h2>chinese items</h2>
+<ul>
+            <li>fried rice</li>
+            <li>noodles</li>
+            <li>chicken rice</li>
+        </ul>
+        </div>
+
+
+        <div id="raj2">
+            <h2>chinese items</h2>
+<ul>
+            <li>fried rice</li>
+            <li>noodles</li>
+            <li>chicken rice</li>
+        </ul>
+        </div>
+        
+        <div>
+            <h2>Non veg items</h2>
+<ul>
+            <li>chicken biryani</li>
+            <li>mutton biryani</li>
+            <li>chicken rice</li>
+        </ul>
+        </div>
+
+
+        <div>
+            <h2>veg items</h2>
+            <ul>
+            <li>veg biryani</li>
+            <li>mushroom biryani</li>
+            <li>veg rice</li>
+        </ul>
+        </div>
+        
+
+    </body>
+    </html>
